@@ -15,7 +15,7 @@
 
 <?php require('./template/header.php'); ?>
 
-<link type="text/javascript" href="js/jquery-1.10.2.min.js">
-<link type="text/javascript" href="js/bootstrap.min.js">
+<script  src="js/jquery-1.10.2.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 </body>
 </html>

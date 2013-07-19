@@ -12,11 +12,11 @@ echo '<div class="navbar navbar-inverse navbar-fixed-top">
           <a class="brand" href="#">Sick Design</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#examples">About</a></li>
-              <li><a href="#contact">Contact</a></li>
-			  <li><a href="#internet">Pricing</a></li>
-			   <li><a href="#internet">Examples</a></li>
+              <li class="active"><a href="index.php">Home</a></li>
+              <li><a href="about.php">About</a></li>
+              <li><a href="contact.php">Contact</a></li>
+			  <li><a href="pricing.php">Pricing</a></li>
+			   <li><a href="exmples.php">Examples</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
