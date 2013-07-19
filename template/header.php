@@ -45,7 +45,7 @@ echo '<div class="navbar navbar-inverse navbar-fixed-top">
               <li '.$aboutA.'><a href="about.php">About</a></li>
               <li'.$contactA.'><a href="contact.php" >Contact</a></li>
 			  <li'.$pricingA.'><a href="pricing.php" >Pricing</a></li>
-			   <li'.$examplesA.'><a href="exmples.php" >Examples</a></li>
+			   <li'.$examplesA.'><a href="examples.php" >Examples</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
