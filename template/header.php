@@ -51,7 +51,7 @@ echo '<div class="navbar navbar-inverse navbar-fixed-top">
         </div>
       </div>
     </div>';
-	echo $active;
+
 
 
 ?>
